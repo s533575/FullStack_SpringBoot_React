@@ -1,0 +1,15 @@
+.app-name{
+    width: 65%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(red, green, blue);
+}
+
+.app-name text{
+    text-align: center;
+    color: seashell;
+    font-size: x-large;
+    font-stretch: expanded;
+} 
